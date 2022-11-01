@@ -18,4 +18,4 @@ Only Thing Required for this to run is -
 - XCode and iPhone Framework in case of IOS.
 - Install the pubsec.yaml file for all the requirements.
 - And run the dart program in the main.
-
+- Installation of Java is also important check the JAVA Version with you flutter.
