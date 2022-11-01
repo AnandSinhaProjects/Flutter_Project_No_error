@@ -1,7 +1,6 @@
 # Flutter Mental Health App
 
-- Dribble - https://dribbble.com/shots/16892232-Mental-Health-App/attachments/11957109?mode=media
-
+![Apps Design Board](images/image_processing20211118-10624-1khiws5.png)
 
 ## Getting Started
 
@@ -19,3 +18,4 @@ Only Thing Required for this to run is -
 - Install the pubsec.yaml file for all the requirements.
 - And run the dart program in the main.
 - Installation of Java is also important check the JAVA Version with you flutter.
+- Install Java for Gradle if using VSCode but better use the code in with XML installed and in Android Studio.
